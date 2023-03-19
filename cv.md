@@ -21,7 +21,26 @@ I am 31 years old, I just started learning programming. My goal is to comprehend
 * CSS
 * JavaScript
 
+## Code Examples
+===
+```
+let obj = {
+  for: 1,
+  let: 2,
+  return: 3
+};
 
+alert( obj.for + obj.let + obj.return );
+```
+## Education
+===
+* **Belarusian National Technological University**
+    + chemical engineer-ecologist (environmental protection and rational use of natural resources)
+
+## Languages
+===
+* **Russian** - native speaker
+* **English** - B1 (I am taking English language courses now)
 
 
 
